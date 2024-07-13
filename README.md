@@ -9,8 +9,7 @@ This repository contains code and documentation related to an assignment focused
 - **Skills Developed**: API interaction, network request analysis, cryptographic hashing.
 
 ## Files Included
-- `assignment.py`: Python script to generate and validate `sha256Hash`.
-- `curl_command.txt`: Example cURL command used in the assignment.
+- `Code snippet.py`: Python script to generate and validate `sha256Hash`.
 - `README.md`: Documentation providing an overview and instructions.
 
 ## How to Use
