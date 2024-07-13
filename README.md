@@ -1,7 +1,3 @@
-Certainly! Here's a concise README template for GitHub regarding your assignment:
-
----
-
 # Reverse Engineering API Requests Assignment
 
 ## Overview
@@ -25,6 +21,3 @@ This repository contains code and documentation related to an assignment focused
 ## Feedback
 Your feedback is appreciated! If you have suggestions or improvements for this assignment or its documentation, please open an issue or pull request.
 
----
-
-Feel free to customize this template with specific details about your assignment, tools used, and any additional instructions or resources. This README will help users understand the purpose of your repository and how to interact with the assignment materials effectively.
